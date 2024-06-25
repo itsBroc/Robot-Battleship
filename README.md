@@ -1,0 +1,1 @@
+This Python program simulates the game Battleship in a simpler form, taking place on one board and ending when all ships are sunk.  It provides functionality for a robot class to simulate player action, meaning that when the code is compiled, two instances of the robot class simulate player action until one wins.
